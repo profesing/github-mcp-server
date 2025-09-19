@@ -16,3 +16,6 @@ bin/
 # macOS
 .DS_Store
 GEMINI.md
+
+# binary
+github-mcp-server
